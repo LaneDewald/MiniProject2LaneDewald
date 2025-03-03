@@ -24,7 +24,7 @@ python main.py
 
 ## Output
 
-This should create 5 graphs in Charts for the 2D data frames from Pandas
+This should create 5 graphs in Charts for the 2D data frames from Pandas with fake statistics with states and the amount of homes that have 1000Mbps+ internet
 
 ## Authors
 
@@ -36,5 +36,5 @@ ex. Lane Dewald
 
 Inspiration, code snippets, etc.
 * [matplotlib](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [Chatgpt](https://chatgpt.com/share/67b40920-4898-800d-9a5c-7c1f1edca67e)
+* [Chatgpt](https://chatgpt.com/c/67c4e9cd-5574-800b-b789-3634f137300d)
 
